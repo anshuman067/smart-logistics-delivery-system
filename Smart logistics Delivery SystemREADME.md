@@ -189,5 +189,4 @@ SYSTEM ARTITECHURE:
 ✔ Cross-state shipments affected most due to hub processing & cutoff timings
 
 # References
-- <a href = "anshumanmohanty049@gmail.com">Anshuman Mohanty (2025, March 19). Delhivery data feature engineering </a>
-- 
+- <a href = "https://github.com/anshuman067/smart-logistics-delivery-system">Anshuman Mohanty (2025, March 19). Delhivery data feature engineering </a>
