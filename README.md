@@ -83,5 +83,5 @@ Hosted Website: <a href="https://delhivery-prediction.onrender.com/"> Dehlivery 
 ![ss7](https://github.com/hacknicole/Predictive-Analysis-and-Delhivery-Optimization/blob/main/assets/statuspage.png)
 
 # References
-- <a href = "sibasankarpanda5544@gmail.com"> Siba sankar panda (2025, March 19). Delhivery data feature engineering </a>
+- <a href = "anshumanmohanty049@gmail.com"> Siba sankar panda (2025, March 19). Delhivery data feature engineering </a>
 - 
